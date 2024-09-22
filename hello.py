@@ -5,7 +5,7 @@ def main():
 
 def getName():
     # Get the user's name via input
-    return input("Hello, what is your name? ")
+    return input("What's your name? ")
 
 def sayHello(name):
     # Output a personalized greeting to the console

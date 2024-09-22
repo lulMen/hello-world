@@ -4,7 +4,7 @@ This program introduces the fundamentals of programming with a Python script tha
 
 Understanding basic scripting and user interaction is essential for building more complex applications. This project helps improve my proficiency with Python, focusing on input handling, string formatting, and structured code flow.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/rH2I_IMqvTE)
 
 # Development Environment
 
